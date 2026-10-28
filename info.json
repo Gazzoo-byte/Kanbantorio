@@ -1,0 +1,11 @@
+{
+  "name": "kanbantorio",
+  "version": "0.1.0",
+  "title": "Kanbantorio - Kanban Task Manager",
+  "author": "Gazzoose",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base >= 2.1.0"
+  ],
+  "description": "A collaborative Kanban-style task manager for Factorio. Organize tasks across To Do, In Progress, and Done columns with per-surface pages (Vanilla and modded surfaces), player assignments, and blueprint attachments via drag-and-drop or blueprint strings."
+}
